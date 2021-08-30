@@ -1,0 +1,50 @@
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\bin\Debug\Stuport.exe.config
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\bin\Debug\Stuport.exe
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\bin\Debug\Stuport.pdb
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.csprojAssemblyReference.cache
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.Form1.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.Properties.Resources.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.csproj.GenerateResource.cache
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.csproj.CoreCompileInputs.cache
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.exe
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.pdb
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.AdminLogin.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentLogin.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentRegister.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentMainPage.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentUpdateData.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.ViewSetAppointment.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.AdminPage.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.Venue.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentView.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.Counsellors.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.StudentAppointment.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.AdminAppointments.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\bin\Debug\BoDarki_Remake_DA.accdb
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.CounsellingGroups.resources
+C:\Users\koketso\VisualStudioProjects\Stuport\Stuport\Stuport\obj\Debug\Stuport.AssignForm.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\bin\Debug\BoDarki_Remake_DA.accdb
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\bin\Debug\Stuport.exe.config
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\bin\Debug\Stuport.exe
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\bin\Debug\Stuport.pdb
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.AdminAppointments.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.AdminLogin.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.AdminPage.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.AssignForm.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.CounsellingGroups.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.Counsellors.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.Form1.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.Properties.Resources.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentAppointment.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentLogin.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentMainPage.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentRegister.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentUpdateData.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.StudentView.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.Venue.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.ViewSetAppointment.resources
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.exe
+C:\Users\HP\Documents\Wits\2nd year\BoDarki\Stuport\Stuport\obj\Debug\Stuport.pdb
